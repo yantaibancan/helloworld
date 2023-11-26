@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73cc7f68-3f55-40dd-b291-44cdf64e1497" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeManagementSystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeManagementSystem/src/main/java/com/iweb/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeManagementSystem/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/DAO/GradeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/DAO/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/DAO/impl/GradeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/DAO/impl/StudentDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/DAO/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/entity/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/test1/TestJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/util/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/util/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/main/java/com/iweb/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/test/java/com/iweb/JDBCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/test/java/com/iweb/JDBCTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1115_javad11_son1/src/test/java/com/iweb/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/asd/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework3/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework3/Egg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework3/Kun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework3/LittleBlackMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework4/RandomStringLen3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework5/BulletinBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework5/NPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework5/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework5/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/homework/homework5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/FightRice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/FuckRice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/Ma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/TestThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/TestThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/TestThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/TestThread4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test1/Hercules.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test1/TeacherMa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test1/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test2/Ikun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test2/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test2/TicketShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test3/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test3/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test5/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test5/Pr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/main/java/com/iweb/test6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1119_javad12/src/test/java/com/iweb/test/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test1/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test1/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test1/ManTou.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test1/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/main/java/com/iweb/test2/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1122_javad13/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/homework/Homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/homework/Homework2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/homework/Homework3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test1/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test3/Lyh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test4/ST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test4/SingleLyh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test4/SingleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1123_javad13/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_client/src/main/java/com/iweb/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_client/src/main/java/com/iweb/client/ReceiveThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_client/src/main/java/com/iweb/client/SendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_client/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/classwork/DAO/ReplyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/classwork/DAO/impl/ReplyDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/classwork/TaoBaoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/classwork/TaoBaoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/classwork/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/classwork/entity/Reply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/classwork/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/Q25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/Q26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/Q27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/Q28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/Q29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/q31/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/q31/FakeHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/q31/FakeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/homework/q31/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/test1/TestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/test1/TestServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/test2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/main/java/com/iweb/test2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_javad14/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_server/src/main/java/com/iweb/server/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_server/src/main/java/com/iweb/server/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1124_server/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test1/person.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test3/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test3/UserServiceImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test3/UserServiceImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test3/spring.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test4/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test4/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test4/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test5/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test5/JDBCConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d1125_javad15/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/d1123_javad13/src/main/java/com/iweb/test4/ST.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/d1125_javad15/src/main/java/com/iweb/test4/DBUtil.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/software/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="C:\software\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YCidVMS65YL5f6j0IzJlJxYirG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/idea_workspace/d1115_javad11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_workspace\d1115_javad11\d1115_javad11_son1\src\main\java" />
+      <recent name="D:\idea_workspace\d1115_javad11\d1115_javad11_son1\src\main\java\com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iweb.test5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DBUtil">
+    <configuration name="DBUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iweb.test5.DBUtil" />
+      <module name="d1125_javad15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iweb.test5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iweb.test4.Test" />
+      <module name="d1125_javad15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iweb.test4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.iweb.test1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iweb.test1.Test" />
+      <module name="d1125_javad15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iweb.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.iweb.test2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iweb.test2.Test" />
+      <module name="d1125_javad15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iweb.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.iweb.test3.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iweb.test3.Test" />
+      <module name="d1125_javad15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iweb.test3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DBUtil" />
+      <item itemvalue="Application.com.iweb.test1.Test" />
+      <item itemvalue="Application.com.iweb.test2.Test" />
+      <item itemvalue="Application.com.iweb.test3.Test" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DBUtil" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.com.iweb.test3.Test" />
+        <item itemvalue="Application.com.iweb.test2.Test" />
+        <item itemvalue="Application.com.iweb.test1.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73cc7f68-3f55-40dd-b291-44cdf64e1497" name="Changes" comment="" />
+      <created>1699007082832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699007082832</updated>
+      <workItem from="1700036051930" duration="13653000" />
+      <workItem from="1700102307274" duration="30000" />
+      <workItem from="1700102343095" duration="4482000" />
+      <workItem from="1700121849111" duration="607000" />
+      <workItem from="1700143266214" duration="1127000" />
+      <workItem from="1700201807245" duration="44000" />
+      <workItem from="1700202071092" duration="550000" />
+      <workItem from="1700222134369" duration="1618000" />
+      <workItem from="1700354544952" duration="23998000" />
+      <workItem from="1700393012841" duration="13927000" />
+      <workItem from="1700447547995" duration="5299000" />
+      <workItem from="1700456338790" duration="1935000" />
+      <workItem from="1700461004548" duration="548000" />
+      <workItem from="1700466520762" duration="10280000" />
+      <workItem from="1700479277851" duration="1935000" />
+      <workItem from="1700548460073" duration="3386000" />
+      <workItem from="1700579924506" duration="1425000" />
+      <workItem from="1700647758175" duration="4937000" />
+      <workItem from="1700652804761" duration="135000" />
+      <workItem from="1700652953422" duration="26000" />
+      <workItem from="1700652989047" duration="148000" />
+      <workItem from="1700653150029" duration="5901000" />
+      <workItem from="1700725251738" duration="13343000" />
+      <workItem from="1700748597238" duration="2182000" />
+      <workItem from="1700803999705" duration="20055000" />
+      <workItem from="1700835031760" duration="6908000" />
+      <workItem from="1700874041772" duration="17584000" />
+      <workItem from="1700959701578" duration="2034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
